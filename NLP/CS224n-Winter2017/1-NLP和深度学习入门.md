@@ -1,4 +1,4 @@
-# Nature Language Processing with Deep Learning
+# Introduction to NLP and Deep Learning
 
 ## NLP Levels
 1. 本课程将主要从 **Syntactic analysis**, **Semantic Interpretation**两方面介绍， 并涉及 **Phonetic/Phonological Analysis**
